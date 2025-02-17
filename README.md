@@ -1,5 +1,7 @@
-## Olá, seja bem vindo(a)! 🌼
-Meu nome é Isabela, sou técnica em Desenvolvimento de Sistemas pelo SENAI e estudante de Ciência da Computação na UDESC.
+## Olá, meu nome é Isabela! Seja bem vindo(a)! 🌼
+
+Sou técnica em Desenvolvimento de Sistemas pelo SENAI e estudante de Ciência da Computação na UDESC.
+
 ### Contate-me:
 <div>
   <a href="mailto:isabela.zmelleis@gmail.com">
@@ -9,6 +11,7 @@ Meu nome é Isabela, sou técnica em Desenvolvimento de Sistemas pelo SENAI e es
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>
 </div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isabelamelleis/isabelamelleis/output/github-contribution-grid-snake-dark.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/isabelamelleis/isabelamelleis/output/github-contribution-grid-snake.svg">
